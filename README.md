@@ -2,7 +2,7 @@
 This is my coding portfolio, with projects detailed in my resume and more.
 
 ## List of projects and summaries:
-- **I/O Console Indonesian LOB simulation in C++ (Language: C++, Status: Complete till further updates, Created: June 2024):**
+- **I/O Console Indonesian LOB simulation (Language: C++, Status: Complete till further updates, Created: June 2024):**
   - Motivation: This was my first C++ project. I used this to learn the syntax of C++ and some of its standard libraries.
   - Description: This project includes a class for an order book, an exchange agent, and a trading agent. When the compiled exe file is run, it asks for the number of trading agents, the length (time ticks) of each day, and the number of days the simulation runs for. The order book resets at the end of each day, and all pending orders are canceled. The trading agents retain some memory from the previous day in a price vector and start the next day by placing bids or asks based on a distribution and their private "market" signals (n-day SMA based on price vector, bid-ask spread, time ticks between trades, fair value signal from the exchange agent, risk-tolerance (stop loss/take profit), sentiment signal which restarts daily, and noise which increases with decreasing 'intelligence' scores). Multimaps and vectors were heavily used in this project to construct the order book and exchange agent. Other concepts learned and used include C++ classes, enumerations, sets, private and public access specifiers, and control loops in C++ (if, if-else, for, do-while).
   - *Sidenote:*
