@@ -1,5 +1,5 @@
 # Coding-Portfolio
-This is my coding portfolio, with projects detailed in my resume and more.
+This is my coding portfolio.
 
 ## List of projects and summaries:
 - **I/O Console Indonesian LOB simulation (Language: C++, Status: Complete till further updates, Created: June 2024):**
