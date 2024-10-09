@@ -1,4 +1,2 @@
-# Instructions to run:
-1. Copy repo to vscode
-2. Run file
-3. Run main.exe file
+Run main.exe to simulate orderbook.
+time is taken to start from 0 and move in increments of 1.
