@@ -6,7 +6,7 @@ This is my coding portfolio. **IMPORTANT: Click on the folders to check the more
   - This was my first C++ project. I used this to learn the syntax of C++ and some of its standard libraries. It is an agent-based Indonesian limit order book simulation (Indonesian because of the integer ticks) that displays on the terminal console as an ASCII table. The program lets you specify the number of days the simulation runs for and the number of ticks.
 
 - **Tkinter backtesting application (Language: Python, Status: Ongoing, Created: July/August 2024)**
-  - I wanted to make a backtesting application to backtest my trading ideas more easily without having to rewrite scripts, re-download data, or recreate indicators.
+  - I wanted to make a backtesting application to backtest my trading ideas more easily without having to rewrite scripts, re-download data, or recreate indicators. Some libraries used include hurst for the hurst exponent, selenium, tkinter, numpy, pandas, tkcalendar, and pykalman for the kalman filter.
 
 - **JaneStreet Puzzles**
   - A folder containing my solutions to Jane Street's monthly puzzles. Solved so far: October 2024 (Conrad Trey Indradjaja)
