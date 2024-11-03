@@ -21,7 +21,7 @@ This is my coding portfolio.
 Future features I intend to add are tabs for backtesting against all stocks in various ways (including backtesting against theoretical asian call warrant prices, backtesting against every stock individually displayed on one chart, and backtesting a portfolio allocation strategy based on some alpha), an options tab that shows payoff diagrams of options combos, formulas for the fair price of each kind of option, and a random walk backtesting tab.
 
 - **JaneStreet Puzzles**
--   - A folder containing my solutions to Jane Street's monthly puzzles. Solved so far: October 2024 (Conrad Trey Indradjaja)
+  - A folder containing my solutions to Jane Street's monthly puzzles. Solved so far: October 2024 (Conrad Trey Indradjaja)
 
 - **Kaggle Folder**
   - A folder containing my kaggle competition attempts. Kaggle competitions so far: RSNA 2024 MRI Classification
