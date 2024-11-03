@@ -8,12 +8,16 @@ This is my coding portfolio. **IMPORTANT: Click on the folders to check the more
 - **Tkinter backtesting application (Language: Python, Status: Ongoing, Created: July/August 2024)**
   - I wanted to make a backtesting application to backtest my trading ideas more easily without having to rewrite scripts, re-download data, or recreate indicators. Some libraries used include hurst for the hurst exponent, selenium, tkinter, numpy, pandas, tkcalendar, and pykalman for the kalman filter.
 
+- **Genetic Decision Tree for Technical Trading rule generation**
+  - This project is a short script trying to create a decision tree that updates every generation by changing its technical trading rules at each node. This was my attempt at recreating the algorithm described in 
+the paper titled "Automatic Creation of Stock Trading Rules on the Basis of Decision Trees" by Dmitry Iskrich and Dmitry Grigoriev.
+
 - **JaneStreet Puzzles**
   - A folder containing my solutions to Jane Street's monthly puzzles. Solved so far: October 2024 (Conrad Trey Indradjaja)
 
 - **Kaggle Folder**
   - A folder containing my kaggle competition attempts. Kaggle competitions so far: RSNA 2024 MRI Classification
 
-
-
+- **Andrej Karpathy Folder**
+  - A folder containing the notebooks I created as I followed along Andrej Karpathy's neural network from scratch videos.
  
