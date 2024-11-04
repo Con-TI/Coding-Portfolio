@@ -1,4 +1,4 @@
--**Folder Summary:
+**Folder Summary**
 - Chapt 1: 
   - Basics of C++ (#include <iostream>, using namespace std, compilation of header files using g++ ___ -o ___, #ifndef #define #endif, pointers, function pointers, <vector> C++ stl, <cmath>)
   - Basic numerical methods (calculating stock price based on binomial model, european call option payoff pricing, cox ross rubinstein model formula, risk neutral probability, digital calls and options)
