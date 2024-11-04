@@ -15,4 +15,4 @@
   - Random library and seeds
   - Asian Option Pricing using sample paths and monte carlo (law of large numbers, Box Muller method), Estimating errors, Estimating Greeks using finite diffs, control variates and variance reduction and analytic solutions, geometric asian option pricing, arithmetic asian option pricing from monte carlo and monte carlo with control variate geometric asian option, barrier call pricing with CV, basket options and matrices
 - Chapt 6:
-  - 
+  - t
