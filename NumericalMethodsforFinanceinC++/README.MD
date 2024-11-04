@@ -1,0 +1,18 @@
+-**Folder Summary:
+- Chapt 1: 
+  - Basics of C++ (#include <iostream>, using namespace std, compilation of header files using g++ ___ -o ___, #ifndef #define #endif, pointers, function pointers, <vector> C++ stl, <cmath>)
+  - Basic numerical methods (calculating stock price based on binomial model, european call option payoff pricing, cox ross rubinstein model formula, risk neutral probability, digital calls and options)
+- Chapt 2:
+  - Classes, Subclasses and inheritance, virtual functions
+  - Butterfly and strangle options
+- Chapt 3:
+  - Class templates, multi inheritance, virtual inheritance
+  - American option pricing using Snell Envelope Method, Stopping time.
+- Chapt 4:
+  - function templates
+  - Newton Rahpson method and Bisect method for finding solutions to non-linear equations, Coupon pricing, Implied volatility, Black scholes price and vega
+- Chapt 5:
+  - Random library and seeds
+  - Asian Option Pricing using sample paths and monte carlo (law of large numbers, Box Muller method), Estimating errors, Estimating Greeks using finite diffs, control variates and variance reduction and analytic solutions, geometric asian option pricing, arithmetic asian option pricing from monte carlo and monte carlo with control variate geometric asian option, barrier call pricing with CV, basket options and matrices
+- Chapt 6:
+  - 
