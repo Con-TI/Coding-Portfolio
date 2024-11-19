@@ -21,3 +21,6 @@ the paper titled "Automatic Creation of Stock Trading Rules on the Basis of Deci
 - **Andrej Karpathy Folder**
   - A folder containing the notebooks I created as I followed along Andrej Karpathy's neural network from scratch videos.
  
+- **Algothon Folder**
+  - A folder containing the final versions of the files used for Imperial's 2024 Algothon.
+ 
